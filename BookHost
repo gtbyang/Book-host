@@ -3,7 +3,7 @@
 127.0.0.1       localhost   # 本地
 182.140.232.1   www.jd.com  # 京东
 192.30.255.112	github.com	# github
-
+127.0.0.1 hub5btmain.sandai.net #迅雷资源
 
 # DNS服务器
 119.29.29.29		# 国内DNS 服务器-主
